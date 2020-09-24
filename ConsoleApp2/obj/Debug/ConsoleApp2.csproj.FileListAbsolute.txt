@@ -1,0 +1,20 @@
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+D:\Программирование\С#\Excel_Import\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Программирование\С#\Excel_Import\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Программирование\С#\Excel_Import\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Программирование\С#\Excel_Import\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Программирование\С#\Excel_Import\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Программирование\С#\Excel_Import\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\AVSolomyanuk\Desktop\Excel_Import\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\AVSolomyanuk\Desktop\Excel_Import\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\AVSolomyanuk\Desktop\Excel_Import\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\AVSolomyanuk\Desktop\Excel_Import\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\AVSolomyanuk\Desktop\Excel_Import\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\AVSolomyanuk\Desktop\Excel_Import\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\AVSolomyanuk\Desktop\Excel_Import\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
